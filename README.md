@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Matheus Bitencourt!
 
+![LinkedIn Cover](https://user-images.githubusercontent.com/6729209/87252482-e44b0580-c449-11ea-89a2-9b30846f973d.png)
+
+I am Brazilian, Carioca, Technical Lead @ IBM, a Certified Developer Advocate, RJ Meetups Leader at exponential areas such: AI, Blockchain, IoT, Data Science. Member of the IBM Brazil Technical Leadership Council and Chapter Leader of Slack RJ Community and Bluetalks@Rio. IBM Recognized Technical Speaker at hands on sessions and Enthusiastic about everything technology can achieve! 
 <!--
 **matbiit/matbiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
