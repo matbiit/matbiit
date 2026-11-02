@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Matheus Bitencourt!
 
-![https://user-images.githubusercontent.com/6729209/87252482-e44b0580-c449-11ea-89a2-9b30846f973d.png](https://github.com/user-attachments/assets/f041e6e4-20d0-4f59-b431-ade683384a34))
+![https://user-images.githubusercontent.com/6729209/87252482-e44b0580-c449-11ea-89a2-9b30846f973d.png](https://github.com/user-attachments/assets/f041e6e4-20d0-4f59-b431-ade683384a34)
 
 As a Senior AI Solution Seller at IBM, I contribute to advancing AI-driven solutions, leveraging my expertise in Multi AI Agents and AI Governance. My focus is on empowering businesses with innovative technologies to streamline operations and achieve strategic goals.  
 
