@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Matheus Bitencourt!
 
-![LinkedIn Cover](https://user-images.githubusercontent.com/6729209/87252482-e44b0580-c449-11ea-89a2-9b30846f973d.png)
+![LinkedIn Cover]([https://user-images.githubusercontent.com/6729209/87252482-e44b0580-c449-11ea-89a2-9b30846f973d.png](https://github.com/user-attachments/assets/f041e6e4-20d0-4f59-b431-ade683384a34))
 
-I am Brazilian, Carioca, Technical Lead @ IBM, a Certified Developer Advocate, RJ Meetups Leader at exponential areas such: AI, Blockchain, IoT, Data Science. Member of the IBM Brazil Technical Leadership Council and Chapter Leader of Slack RJ Community and Bluetalks@Rio. IBM Recognized Technical Speaker at hands on sessions and Enthusiastic about everything technology can achieve! 
+As a Senior AI Solution Seller at IBM, I contribute to advancing AI-driven solutions, leveraging my expertise in Multi AI Agents and AI Governance. My focus is on empowering businesses with innovative technologies to streamline operations and achieve strategic goals.  
+
+With over a decade of experience in technology and 2 AI Patents, I am passionate about teaching and sharing knowledge as an MBA Professor specializing in Artificial Intelligence. This role enables me to guide the next generation of professionals in AI enterprise strategy, orchestration, and governance while aligning technology with business objectives.
 <!--
 **matbiit/matbiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
